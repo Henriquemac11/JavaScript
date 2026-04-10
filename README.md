@@ -22,10 +22,4 @@ Este repositório é um curso prático de JavaScript do básico ao avançado, or
 - 12-manipulacao-dom
 - 13-projetos
 
-## Como executar
-1. Abra o terminal na pasta do módulo desejado.
-2. Rode `node index.js` para executar os exemplos no Node.js.
-3. Para exemplos de DOM, abra o arquivo `index.html` no navegador.
-
-## Mensagem para recrutadores
 Este projeto demonstra evolução clara em JavaScript, com foco em código limpo, boas práticas e estruturação profissional. Cada módulo inclui teoria, exemplos e desafios para reforçar o aprendizado.
